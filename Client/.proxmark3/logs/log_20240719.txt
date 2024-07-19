@@ -1,0 +1,44 @@
+[=] Using UART port COM8
+[=] Communicating with PM3 over USB-CDC
+[=] Creating initial preferences file
+[=] Saving preferences...
+[+] saved to json file C:\Users\ly\Desktop\ICOPY-XGUI\ICOPYXGUI24719\Client\/.proxmark3/preferences.json
+[usb|script] pm3 --> (null)
+
+ [ Proxmark3 RFID instrument ]
+
+ [ CLIENT ]
+  client: RRG/Iceman/master/release (git) 
+  compiled with MinGW-w64 10.1.0 OS:Windows (64b) ARCH:x86_64
+
+ [ PROXMARK3 RDV4 ]
+  external flash:                  present
+  smartcard reader:                absent
+
+ [ PROXMARK3 RDV4 Extras ]
+  FPC USART for BT add-on support: absent
+
+ [ ARM ]
+  bootrom: Iceman/master/v4.14831-664-g719c51b15 2022-06-19 22:11:25
+       os: RRG/Iceman/master/385d892f-dirty-unclean 2022-06-09 14:19:31
+   NIKOLA: v3.1 2022-06-09 14:19:31
+  compiled with GCC 10.1.0
+
+ [ FPGA ] 
+  LF image built for 2s30vq100 on 2020-04-27 at 06:32:07
+  HF image built for 2s30vq100 on 2020-08-13 at 15:34:17
+  HF FeliCa image built for 2s30vq100 on 2020-04-27 at 08:02:36
+
+ [ Hardware ]
+  --= uC: AT91SAM7S512 Rev B
+  --= Embedded Processor: ARM7TDMI
+  --= Nonvolatile Program Memory Size: 512K bytes, Used: 248280 bytes (47%) Free: 276008 bytes (53%)
+  --= Second Nonvolatile Program Memory Size: None
+  --= Internal SRAM Size: 64K bytes
+  --= Architecture Identifier: AT91SAM7Sxx Series
+  --= Nonvolatile Program Memory Type: Embedded Flash Memory
+
+
+[usb|script] pm3 --> (null)
+[#] 0: 06 00 00 ea 14 00 00 ea
+[usb|script] pm3 --> (null)

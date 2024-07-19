@@ -1,0 +1,3 @@
+When connecting the device, the authorization card will be automatically verified. Please place the authorization card properly before connecting the device. Please keep the authorization card safe. If the authorization card is damaged due to personal reasons, please bear the loss on your own. 
+This software is compatible with ICOPY-X version 1.90 
+download link https://github.com/rfidreadermaker/ICOPYXSGUI

@@ -1,0 +1,16 @@
+{
+  "Created": "proxmark3",
+  "FileType": "settings",
+  "show.emoji": "alttext",
+  "show.hints": false,
+  "os.supports.colors": false,
+  "window.plot.xpos": 10,
+  "window.plot.ypos": 30,
+  "window.plot.hsize": 400,
+  "window.plot.wsize": 800,
+  "window.overlay.xpos": 10,
+  "window.overlay.ypos": 490,
+  "window.overlay.hsize": 200,
+  "window.overlay.wsize": 800,
+  "client.debug.level": "off"
+}

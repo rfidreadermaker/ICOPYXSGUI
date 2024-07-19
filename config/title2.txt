@@ -1,0 +1,3 @@
+连接设备时会自动验证授权卡，请放好授权卡再连接设备，请妥善保管授权卡，如因个人原因导致授权卡损坏，请自行承担损失。
+本软件匹配ICOPY-X 1.90版本 
+下载地址https://github.com/rfidreadermaker/ICOPYXSGUI

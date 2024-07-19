@@ -1,0 +1,1 @@
+Dear user, welcome to purchase the software. This version of the software matches the firmware of ICOPYXS version 1.90. The software is non-toxic, please feel free to download it.
